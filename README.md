@@ -12,7 +12,7 @@
 
 **Stack:** Node.js 20+, PostgreSQL 16 (raw JSONB plus normalized tables), Playwright over a logged-in Chrome, Kommo REST API v4, plain HTML/CSS/JS dashboards, nodemailer alerts, PowerShell installer and scheduled tasks for a Windows server, launchd on macOS, OpenAI for conversation signals.
 
-**Status:** internal tooling for the family events business, built July to September 2026. The SDR and closer dashboard worked daily during the pilot period. The backup ran a live pilot and ships with a Windows installer audited twice; full-scale collection on the company server and the final lead-score calibration are the next stages. Not a product offered to third parties.
+**Status:** internal tooling for Vale Verde Festas, the events company where I am Head of Technology, built July to September 2026. The SDR and closer dashboard worked daily during the pilot period. The backup ran a live pilot and ships with a Windows installer audited twice; full-scale collection on the company server and the final lead-score calibration are the next stages. Not a product offered to third parties.
 
 ## Problem → Solution
 
